@@ -1,0 +1,18 @@
+.tab-container {
+  list-style: none;
+  margin-right: 40px;
+}
+.tab-btn {
+  background-color: transparent;
+  color: #ffffff;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 16px;
+}
+.active-tab {
+  border-bottom: 2px solid #fec653;
+  color: #fec653;
+}

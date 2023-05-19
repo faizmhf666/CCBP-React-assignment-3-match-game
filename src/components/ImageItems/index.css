@@ -1,0 +1,12 @@
+.img-container {
+  list-style: none;
+  margin-right: 60px;
+}
+.img-btn {
+  background-color: transparent;
+  border: none;
+  border-radius: 5px;
+}
+.thumbnail {
+  width: 120px;
+}
